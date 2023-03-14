@@ -1,6 +1,6 @@
 # Abdallah Kamash 🤖✨
 
-**'Progammer, Developer, Electronic Engineer, a Robotics enthusiast'**
+**`Progammer, Developer, Electronic Engineer, a Robotics enthusiast`**
 
 
 - 🔭 I’m currently working on ...

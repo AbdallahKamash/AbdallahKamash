@@ -5,4 +5,4 @@
 
 ## 🧑‍💻 Languages and Tools
 
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />

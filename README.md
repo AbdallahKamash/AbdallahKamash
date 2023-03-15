@@ -1,5 +1,5 @@
 # Abdallah Kamash 🤖✨
-### **`Progammer | Developer | Electronic Engineer | a Robotics enthusiast`**
+### **`Programmer | Developer | Electronic Engineer | a Robotics enthusiast`**
 
 
 

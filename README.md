@@ -29,7 +29,7 @@
 #### Worked on 3 app projects here :
   - AlmedadSoft's Handheld app for inventory counting and selling connected directly to SQL Server. **`Flutter, SQL Server`** <br/>
   - StoreBarcode is a barcode reader app for customers in-store to know the prices of their items.  **`Flutter, SQL Server`** <br/>
-  - Mosweq App, an app works as a menu and a sell-point for shops espcially coffee shops and restaurants to sell through this app by cash, or using the UniPay Money Service (online payment service).  **`Flutter, RAD Server / RAD Stduio, SQL Server`** <br/><br/>
+  - Mosweq App, an app works as a menu and a sell-point for shops espcially coffee shops and restaurants to sell through this app by cash, or using the UniPay Money Service (online payment service).  **`Flutter, RAD Server / RAD Studio, SQL Server`** <br/><br/>
 
 ### Freetime Coding :
 #### These are apps that I made in my free time:

@@ -40,7 +40,7 @@ The App took only 8 hours, in one day, to complete. I have used the Flutter Fram
 The app features in live-data and changing temperatures, also in changing cities, (first, the test was on some Libyan cities only).
 The app provides 3-day or 5-day Forecast, which depends on your WeatherAPI subscription.
 
-Project Link: [The Weather App](https://link-url-here.org)
+Project Repository Link: [The Weather App](https://link-url-here.org)
 
 These are some screenshots in-app *(Design was inspired from Ayman Alrefai, UI/UX Developer)* :
 

@@ -35,13 +35,16 @@
 #### These are apps that I made in my free time:
 
 ### 1. Weather App: **`Flutter, WeatherAPI`**
-<img align="left" width="170px" src="https://user-images.githubusercontent.com/93958137/225906557-372ef32c-9bff-46c9-baa3-8fd05445cb07.jpg" />
-<img align="left" width="170px" src="https://user-images.githubusercontent.com/93958137/225906941-d7021cd1-a43c-40c0-976d-b55798efcb74.jpg" />
-<img align="left" width="170px" src="https://user-images.githubusercontent.com/93958137/225906954-60a1a6c7-c3de-4ab6-8d6b-0ef0edda6402.jpg" />
-<img align="left" width="170px" src="https://user-images.githubusercontent.com/93958137/225906982-0c60088d-4679-46f4-a996-be6a2dc7ab08.jpg" />
 
-#
 The App took only 8 hours, in one day, to complete. I have used the Flutter Framework and the data was provided from ***WeatherAPI***.
 The app features in live-data and changing temperatures, also in changing cities, (first, the test was on some Libyan cities only).
 The app provides 3-day or 5-day Forecast, which depends on your WeatherAPI subscription.
 
+Project Link: [The Weather App](https://link-url-here.org)
+
+These are some screenshots in-app *(Design was inspired from Ayman Alrefai, UI/UX Developer)* :
+
+<img align="left" width="180px" src="https://user-images.githubusercontent.com/93958137/225906557-372ef32c-9bff-46c9-baa3-8fd05445cb07.jpg" />
+<img align="left" width="180px" src="https://user-images.githubusercontent.com/93958137/225906941-d7021cd1-a43c-40c0-976d-b55798efcb74.jpg" />
+<img align="left" width="180px" src="https://user-images.githubusercontent.com/93958137/225906954-60a1a6c7-c3de-4ab6-8d6b-0ef0edda6402.jpg" />
+<img align="left" width="180px" src="https://user-images.githubusercontent.com/93958137/225906982-0c60088d-4679-46f4-a996-be6a2dc7ab08.jpg" />

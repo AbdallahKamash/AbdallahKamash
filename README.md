@@ -2,7 +2,6 @@
 ### **`Programmer | Developer | Electronic Engineer | a Robotics enthusiast`**
 
 
-
   
 ## 🧑‍💻 Languages and Tools
 
@@ -48,3 +47,13 @@ These are some screenshots in-app *(Design was inspired from Ayman Alrefai, UI/U
 <img align="left" width="180px" src="https://user-images.githubusercontent.com/93958137/225906941-d7021cd1-a43c-40c0-976d-b55798efcb74.jpg" />
 <img align="left" width="180px" src="https://user-images.githubusercontent.com/93958137/225906954-60a1a6c7-c3de-4ab6-8d6b-0ef0edda6402.jpg" />
 <img align="left" width="180px" src="https://user-images.githubusercontent.com/93958137/225906982-0c60088d-4679-46f4-a996-be6a2dc7ab08.jpg" />
+
+
+### 2. Tasks App: **`Flutter, Firebase, Firestore`**
+
+Time to finish: 40hrs, over 2 months. Used the Flutter Framework, and used Firebase/Firestore for data storage, storing the tasks and user data in cloud for multiplatfrom suppoer, and user authentication using email or Google Mail (Gmail). The app's data is refreshed with every change in the Firestore Cloud. The Tasks App provides day by day tasks, adding reminders, and more.
+
+Project Repository Link: [Tasks App](https://github.com/AbdallahKamash)
+
+These are some screenshots in-app *(This design was also inspired from Ayman Alrefai, UI/UX Developer)* :
+

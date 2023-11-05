@@ -47,6 +47,23 @@ These are some screenshots in-app *(Design was inspired from Ayman Alrefai, UI/U
 <img align="left" width="180px" src="https://user-images.githubusercontent.com/93958137/225906941-d7021cd1-a43c-40c0-976d-b55798efcb74.jpg" />
 <img align="left" width="180px" src="https://user-images.githubusercontent.com/93958137/225906954-60a1a6c7-c3de-4ab6-8d6b-0ef0edda6402.jpg" />
 <img align="left" width="180px" src="https://user-images.githubusercontent.com/93958137/225906982-0c60088d-4679-46f4-a996-be6a2dc7ab08.jpg" />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ### 2. Tasks App: **`Flutter, Firebase, Firestore`**

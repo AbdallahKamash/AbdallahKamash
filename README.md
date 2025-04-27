@@ -8,8 +8,8 @@
 <img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" width="45px" src="https://dtffvb2501i0o.cloudfront.net/images/logos/logo-page/rad-studio-logo-1024.png" />
-<img align="left" width="50px" src="https://www.brightanalytics.eu/wp-content/uploads/SQL-server-logo.png" />
+<img align="left" width="45px" src="https://www.dataapps.in/wp-content/themes/dataapps-theme/img/embarcadero/rad-studio-logo-1024.png" />
+<img align="left" width="50px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
 <img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -23,12 +23,12 @@
 
 ## <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> Flutter, Dart, and Android Studio
 
-<p>Started Learning in 2021. <br/> Now a Mobile Developer as AlmedadSoft Company for Software Solutions since September, 2022.<br/><p/>
+<p>Started Learning in 2021. <br/> Now a Mobile Developer at AlmedadSoft Company for Software Solutions since September 2022.<br/><p/>
 
 #### Worked on 3 app projects here :
   - AlmedadSoft's Handheld app for inventory counting and selling connected directly to SQL Server. **`Flutter, SQL Server`** <br/>
   - StoreBarcode is a barcode reader app for customers in-store to know the prices of their items.  **`Flutter, SQL Server`** <br/>
-  - Mosweq App, an app works as a menu and a sell-point for shops espcially coffee shops and restaurants to sell through this app by cash, or using the UniPay Money Service (online payment service).  **`Flutter, RAD Server / RAD Studio, SQL Server`** <br/><br/>
+  - Mosweq App, an app works as a menu and a sell-point for shops especially coffee shops and restaurants to sell through this app by cash, or using the UniPay Money Service (online payment service).  **`Flutter, RAD Server / RAD Studio, SQL Server`** <br/><br/>
 
 ### Freetime Coding :
 #### These are apps that I made in my free time:
@@ -36,7 +36,7 @@
 ### 1. Weather App: **`Flutter, WeatherAPI`**
 
 The App took only 8 hours, in one day, to complete. I have used the Flutter Framework and the data was provided from ***WeatherAPI***.
-The app features in live-data and changing temperatures, also in changing cities, (first, the test was on some Libyan cities only).
+The app features live data and changing temperatures, also in changing cities, (first, the test was on some Libyan cities only).
 The app provides 3-day or 5-day Forecast, which depends on your WeatherAPI subscription.
 
 Project Repository Link: [The Weather App](https://github.com/AbdallahKamash/weather-app)
